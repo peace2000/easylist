@@ -652,7 +652,7 @@
 ||omataloyhtio.fi/statb.asp
 ||puutarha.net/ffsw-pushcrew.js
 ||puutarha.net/statb.asp
-||rac.ruutu.fi/sat/sat.gif$image
+||rac.ruutu.fi/sat/sat.gif
 ||stat.mtv3.fi^
 ||ts.fi^*/spring.js
 ! Greek
