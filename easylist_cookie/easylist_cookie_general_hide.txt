@@ -11048,6 +11048,7 @@
 ##.popup-alert-notice
 ##.popup-aviso-cookies
 ##.popup-box[class*="cookies"]
+##.popup-consent
 ##.popup-cookie-2018
 ##.popup-cookie-background
 ##.popup-cookie-banner
