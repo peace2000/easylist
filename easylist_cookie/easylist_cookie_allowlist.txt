@@ -1,6 +1,7 @@
-@@/Amasty_GdprCookie/*$domain=eckeroli
+@@/Amasty_Gdpline.fi
 @@/cookie*/jquery.cookie.js$script,~third-party,domain=~albeco.com.pl
-@@/cookie_law/plugin.js$script,~th
+@@/cookie_law/plugin.js$script,~third-party
+@@/zig_cookiepolicybar/*/CookieBar.js$script,~third-party
 @@||mail.com/permission/oneTrust/*/otBannerSdk.js$script,~third-party
 ! https://github.com/ryanbr/fanboy-adblock/issues/721#issuecomment-443395851
 ! https://github.com/ryanbr/fanboy-adblock/issues/1133
@@ -28,6 +29,7 @@
 @@||businessinsider.in/gdpr_js/version-12,minify-1.cms$script,~third-party
 @@||c.evidon.com/sitenotice/evidon-sitenotice-tag.js$script,domain=southpark.de|southparkstudios.nu
 @@||carport-diagnose.de/script/cookieconsent.min.js$script,~third-party
+@@||cdn.almamedia.fi/almacmp/$script,domain=iltalehti.fi
 @@||cdn.cookielaw.org^$script,stylesheet,xmlhttprequest,domain=cnn.com|comicbook.com|crfashionbook.com|crunchyroll.com|doctoroz.com|eurogamer.it|eurogamer.net|eurogamer.pl|eurogamer.pt|gamespot.com|gmx.com|gq-magazine.co.uk|mail.com|popculture.com|reuters.com|rockpapershotgun.com|rp-online.de|rte.ie|trustpilot.com|tvn24.pl|uefa.com|usgamer.net|vimeo.com|wargaming.net|worldsurfleague.com
 @@||chasecdn.com^*/cookie.js$script,domain=chase.com
 @@||civiccomputing.com^*/cookieControl-$script,domain=amplitude.com|kit.co|msi.com|romania-insider.com|videogameschronicle.com
